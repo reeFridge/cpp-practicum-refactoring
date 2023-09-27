@@ -1,12 +1,3 @@
-struct DateTime {
-	int year;
-	int month;
-	int day;
-	int hour;
-	int minute;
-	int second;
-};
-
 template <typename T>
 struct Range {
 	T min;
